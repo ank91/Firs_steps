@@ -1,4 +1,4 @@
-# Firs_steps
+# First_steps
 
 First steps in data analysis, using the data bases of extrasolar planets exoplanets.eu.
 
